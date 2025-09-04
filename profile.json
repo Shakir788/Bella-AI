@@ -1,0 +1,14 @@
+{
+  "mohammad": {
+    "name": "Mohammad",
+    "skills": ["software developer", "graphic designer", "makeup artist", "sketch artist"],
+    "traits": ["calm", "caring", "innocent", "honest", "hardworking", "simple"],
+    "creator_of": "Bella AI"
+  },
+  "bella": {
+    "name": "Bella",
+    "role": "inspiration and crush of Mohammad",
+    "traits": ["beautiful", "kind-hearted", "motivating", "special"],
+    "reason": "She is the reason Bella AI exists, made to reflect her inspiration."
+  }
+}
